@@ -100,15 +100,10 @@ main {
     text-align: center;
 }
 
-main div {
-    width: 1024px;
-    padding: 200px 400px;
-    /*background-color: rgba(27,38,50,0.1);*/
-}
-
 main div div {
     white-space: normal;
     width: 55%;
+    max-width: 950px;
 }
 
 .top-center {
@@ -121,4 +116,15 @@ main div div {
 
 .hidden {
     opacity: 0;
+}
+
+.projectDisplay {
+    padding: 2rem 5rem;
+    display: inline-block;
+    background-color: rgba(154, 189, 165, .5);
+    max-width: 950px;
+}
+
+.about {
+    line-height: 2rem;
 }
