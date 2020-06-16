@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" class="bg">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home - Nicholas Kuepper</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="projects/index.html">Projects</a></li>
+            <li><a href="about/index.html">About</a></li>
+            <li><a href="contact/index.html">Contact</a></li>
+        </ul>
+    </nav>
+    <header class="top-center">
+    </header>
+    <main>
+        <div class="center">
+            <h2>Nicholas Kuepper</h2>
+            <h2>Software Developer</h2>
+            <br>
+            <h3>Please follow any of the links in the navigation to learn more.</h3>
+        </div>
+    </main>
+    <footer>&copy;2020 Nicholas Kuepper</footer>
+
+    <script src="jquery-3.4.1.min.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
