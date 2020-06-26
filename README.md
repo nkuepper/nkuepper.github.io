@@ -1,2 +1,2 @@
 # PortfolioSite
-WIP Website for my Portfolio
+Website for my portfolio. Features information about me and links to projects.
